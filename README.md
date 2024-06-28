@@ -1,4 +1,4 @@
-## Data Structures
+## Data Structures:
 
 ### Linked List
 - **Definition**: A succession of elements, each of which points back to the next one.
